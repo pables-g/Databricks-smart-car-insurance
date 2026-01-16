@@ -1,4 +1,3 @@
-# databricks-zero-to-hero-course
-This is the official repository of the Databricks Zero To Hero Course by Thomas Hass.
+# Databricks-smart-car-insurance
 
 ![](ProjectViz.gif)
